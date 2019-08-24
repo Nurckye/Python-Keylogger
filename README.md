@@ -1,2 +1,2 @@
 # Python-Keylogger
-A simple keylogger made in python for fun. No malicious intents or other hidden purposes.
+A simple keylogger with sockets made in Python for fun. No malicious intents or other hidden purposes.
